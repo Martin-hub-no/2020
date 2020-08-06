@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:0,Anis-Sat : Kurdistan Tv
+rtmp://84.244.187.12/live/livestream
+
+#EXTINF:0,Anis-Sat : Ronahi TV
+rtmp://ronahitv.com/ronahitv_video/14/stream
+
+#EXTINF:0,Anis-Sat : Newroz TV
+http://livestream-f.akamaihd.net/7192261_2768698_a2119f2a_1_446@304624
+
+#EXTINF:0,Anis-Sat : Gali Kurdistan Sat
+http://64.150.177.45:1935/live/_definst_/mp4:myStream/playlist.m3u8
+
+#EXTINF:0,Anis-Sat : KNN Channel
+http://46.163.68.239:1935/live/_definst_/livestream/playlist.m3u8
+
+#EXTINF:0,Anis-Sat : Komala TV
+rtmp://194.237.202.7:1937/live/KomalaTV_KurdChannel
+
+#EXTINF:0,Anis-Sat : Kurdmax
+http://live.kurdstream.net:1935/liveTrans/myStream_360p/playlist.m3u8
+
+#EXTINF:0,Anis-Sat : NRT TV HD
+rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt1/_definst_/mp4:nrt1.stream_1
+
+#EXTINF:0,Anis-Sat : NRT 2
+rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt2/_definst_/mp4:nrt2.stream_1
+
+#EXTINF:0,Anis-Sat : NALIA FM
+http://178.248.241.123:8000/radionrt
+
+#EXTINF:0,Anis-Sat : Payam TV (Low)
+http://payamlive.nanocdn.com:1935/live/payam64/playlist.m3u8
+
+#EXTINF:0,Anis-Sat : Payam TV (Medium)
+http://payamlive.nanocdn.com:1935/live/payam128/playlist.m3u8
+
+#EXTINF:0,Anis-Sat : Payam TV (Hight)
+http://payamlive.nanocdn.com:1935/live/payam256/playlist.m3u8
+
+#EXTINF:0,Anis-Sat : Rudaw TV
+rtmp://livestreaming.itworkscdn.net/rudawlive/rudawtv
+
+#EXTINF:0,Anis-Sat : Speda TV (Low)
+rtsp://sepidehmob.nanocdn.com:1935/live/sepideh64
+
+#EXTINF:0,Anis-Sat : Speda TV (Medium)
+rtsp://sepidehmob.nanocdn.com:1935/live/sepideh128
+
+#EXTINF:0,Anis-Sat : Speda TV (Hight)
+rtsp://sepidehmob.nanocdn.com:1935/live/sepideh256
+
+#EXTINF:0,Anis-Sat : Speda TV (Low)
+http://sepidehlive.nanocdn.com:1935/live/sepideh64/playlist.m3u8
+
+#EXTINF:0,Anis-Sat : Speda TV (Medium)
+http://sepidehlive.nanocdn.com:1935/live/sepideh128/playlist.m3u8
+
+#EXTINF:0,Anis-Sat : Speda TV (Hight)
+http://sepidehlive.nanocdn.com:1935/live/sepideh256/playlist.m3u8
+
+#EXTINF:0,Anis-Sat : Sterk TV
+rtmp://178.33.61.33/sterktv_video/13/stream
+
+#EXTINF:0,Anis-Sat : Zagros TV
+rtmp://64.150.188.83/live//livestream2
+
+#EXTINF:0,Anis-Sat : Kurdistan TV
+http://84.244.187.12:1935/live/livestream/playlist.m3u8
+
+#EXTINF:0,Anis-Sat : Kurdsat TV HD
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/kurdsat/ls_satlink/b_528.m3u8
+
+#EXTINF:0,Anis-Sat : NRT HD
+rtmp://nrttv.iptv-playoutcenter.de:1935/nrt1/_definst_/mp4:nrt1.stream_1
+
+#EXTINF:0,Anis-Sat : NRT 2
+rtmp://nrttv.iptv-playoutcenter.de:1935/nrt2/_definst_/mp4:nrt2.stream_1
+
+#EXTINF:0,Anis-Sat : Payam TV
+rtsp://payammob.nanocdn.com:1935/live/payam256
+
+#EXTINF:0,Anis-Sat : Sepideh TV
+rtmp://sepidehlive.nanocdn.com/live/sepideh256
