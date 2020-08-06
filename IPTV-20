@@ -1,78 +1,195 @@
 
-#EXTINF:0,Anis-Sat : Kurdistan Tv
-rtmp://84.244.187.12/live/livestream
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2349.png",ATV  By iptv4free.com
+http://reds.ppdn.tn/iptv/ch2349?code=460134681098246&key=20006
 
-#EXTINF:0,Anis-Sat : Ronahi TV
-rtmp://ronahitv.com/ronahitv_video/14/stream
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2370.png",ATV Avrupa Tr
+http://reds.ppdn.tn/iptv/ch2370?code=460134681098246&key=47095
 
-#EXTINF:0,Anis-Sat : Newroz TV
-http://livestream-f.akamaihd.net/7192261_2768698_a2119f2a_1_446@304624
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2372.png",A news Tr
+http://reds.ppdn.tn/iptv/ch2372?code=460134681098246&key=64583
+
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2351.png",A Haber
+http://reds.ppdn.tn/iptv/ch2351?code=460134681098246&key=56445
+
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2316.png",A para Tr
+http://reds.ppdn.tn/iptv/ch2316?code=460134681098246&key=17138
+
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2350.png",Aspor  By iptv4free.com
+http://reds.ppdn.tn/iptv/ch2350?code=460134681098246&key=19446
+
+#EXTINF:-1,TR: 24 TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73322
+
+#EXTINF:-1,TR: A HABER 1080 FULL  By iptv4free.com
+http://live.ontarget.live:8080/Amanda1/Amanda1/73323
+
+#EXTINF:-1,TR: A SPOR  By iptv4free.com 1080 FULL  By iptv4free.com
+http://live.ontarget.live:8080/Amanda1/Amanda1/73324
+
+#EXTINF:-1,TR: ATV FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73325
+
+#EXTINF:-1,TR: beIN BOX OFFICE 1  By iptv4free.com
+http://live.ontarget.live:8080/Amanda1/Amanda1/73326
+
+#EXTINF:-1,TR: beIN BOX OFFICE 2  By iptv4free.com
+http://live.ontarget.live:8080/Amanda1/Amanda1/73327
+#EXTINF:-1,TR: beIN BOX OFFICE 3  By iptv4free.com
+http://live.ontarget.live:8080/Amanda1/Amanda1/73328
+#EXTINF:-1,TR: BEYAZ TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73329
+#EXTINF:-1,TR: BLOOMBERG HT FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73330
+#EXTINF:-1,TR: CNN TURK FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73331
+#EXTINF:-1,TR: DISCOVERY SCIENCE
+http://live.ontarget.live:8080/Amanda1/Amanda1/73332
+#EXTINF:-1,TR: DMAX TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73333
+#EXTINF:-1,TR: DREAM TURK FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73334
+#EXTINF:-1,TR: DREAM TV FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73335
+#EXTINF:-1,TR: EKO TURK
+http://live.ontarget.live:8080/Amanda1/Amanda1/73336
+#EXTINF:-1,TR: ER TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73337
+#EXTINF:-1,TR: FB TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73338
+#EXTINF:-1,TR: FOX TV FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73339
+#EXTINF:-1,TR: GS TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73340
+#EXTINF:-1,TR: HABERTURK FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73341
+#EXTINF:-1,TR: HALKTV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73342
+#EXTINF:-1,TR: KANAL 7 FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73343
+#EXTINF:-1,TR: KANAL B
+http://live.ontarget.live:8080/Amanda1/Amanda1/73344
+#EXTINF:-1,TR: KANAL D FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73345
+#EXTINF:-1,TR: KON TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73346
+#EXTINF:-1,TR: NTV FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73347
+#EXTINF:-1,TR: OLAY TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73348
+#EXTINF:-1,TR: POWER TURK FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73349
+#EXTINF:-1,TR: POWER TV FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73350
+#EXTINF:-1,TR: SHOW TV FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73351
+#EXTINF:-1,TR: SPORTS TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73352
+#EXTINF:-1,TR: STAR TV FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73353
+#EXTINF:-1,TR: TEVE 2 FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73354
+#EXTINF:-1,TR: TGRT HABER
+http://live.ontarget.live:8080/Amanda1/Amanda1/73355
+#EXTINF:-1,TR: TLC
+http://live.ontarget.live:8080/Amanda1/Amanda1/73356
+#EXTINF:-1,TR: TRT 1 FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73357
+#EXTINF:-1,TR: TRT HABER
+http://live.ontarget.live:8080/Amanda1/Amanda1/73358
+#EXTINF:-1,TR: TRT MUZIK
+http://live.ontarget.live:8080/Amanda1/Amanda1/73359
+#EXTINF:-1,TR: TRT SPOR FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73360
+#EXTINF:-1,TR: TRTHABER
+http://live.ontarget.live:8080/Amanda1/Amanda1/73361
+#EXTINF:-1,TR: TV 8 FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73362
+#EXTINF:-1,TR: TV 8_5 FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73363
+#EXTINF:-1,TR: UCANKUS TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73364
+#EXTINF:-1,TR: ULKE TV FULL  By iptv4free.com 1080
+http://live.ontarget.live:8080/Amanda1/Amanda1/73365
+#EXTINF:-1,TR: ULUSAL TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73366
+#EXTINF:-1,TR: VUSLAT TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73367
+#EXTINF:-1,TR:TIVIBU SINEMATV
+http://live.ontarget.live:8080/Amanda1/Amanda1/73368
+#EXTINF:-1,TR:TIVIBU SINEMATV 1001
+http://live.ontarget.live:8080/Amanda1/Amanda1/73369
+#EXTINF:-1,TR:TIVIBU SINEMATV 1002
+http://live.ontarget.live:8080/Amanda1/Amanda1/73370
+#EXTINF:-1,TR:TIVIBU SINEMATV 2
+http://live.ontarget.live:8080/Amanda1/Amanda1/73371
+#EXTINF:-1,TR:TIVIBU SINEMATV AILE
+http://live.ontarget.live:8080/Amanda1/Amanda1/73372
+#EXTINF:-1,TR:TIVIBU SINEMATV AILE 2
+http://live.ontarget.live:8080/Amanda1/Amanda1/73373
+#EXTINF:-1,TR:TIVIBU SINEMATV AKSIYON
+http://live.ontarget.live:8080/Amanda1/Amanda1/73374
+#EXTINF:-1,TR:TIVIBU SINEMATV AKSIYON 2
+http://live.ontarget.live:8080/Amanda1/Amanda1/73375
+#EXTINF:-1,TR:TIVIBU SINEMATV KOMEDI
+http://live.ontarget.live:8080/Amanda1/Amanda1/73376
+#EXTINF:-1,TR:TIVIBU SINEMATV KOMEDI 2
+http://live.ontarget.live:8080/Amanda1/Amanda1/73377
+#EXTINF:-1,TR:TIVIBU SINEMATV YERLI
+http://live.ontarget.live:8080/Amanda1/Amanda1/73378
+#EXTINF:-1,TR:TIVIBU SINEMATV YERLI 2
+http://live.ontarget.live:8080/Amanda1/Amanda1/73379
+#EXTINF:-1,TR │ KANAL D  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
+#EXTINF:-1,TR │ STAR  By iptv4free.com
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
+#EXTINF:-1,TR │ FOX  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+#EXTINF:-1,TR │ TV 8  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
+#EXTINF:-1,TR │ KANAL 7  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/83
+#EXTINF:-1,TR │ BEYAZ  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/87
+#EXTINF:-1,TR │ A2  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/89
+#EXTINF:-1,TR │ CEM TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/104
+#EXTINF:-1,TR │ CAN TV  By iptv4free.com
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/105
+#EXTINF:-1,TR │ YOL TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/107
+#EXTINF:-1,TR │ TV 5
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/113
+#EXTINF:-1,TR │ NTV  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/128
+#EXTINF:-1,TR │ CNN TÜRK  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
+#EXTINF:-1,TR │ HABER TÜRK  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/130
+#EXTINF:-1,TR │ 24 HABER  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/134
+#EXTINF:-1,TR │ KRT  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/135
+#EXTINF:-1,TR │ TV 100  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
+#EXTINF:-1,TR │ HABER GLOBAL  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/137
+#EXTINF:-1,TR │ ARTI TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
+#EXTINF:-1,TR │ TELE 1
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
+#EXTINF:-1,TR │ HALK TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
 
 
-#EXTINF:0,Anis-Sat : Gali Kurdistan Sat
-http://64.150.177.45:1935/live/_definst_/mp4:myStream/playlist.m3u8
+#EXTINF:-1,TR │ ULUSAL KANAL
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/142
 
-#EXTINF:0,Anis-Sat : KNN Channel
-http://46.163.68.239:1935/live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,TR │ BLOOMBERG HT  By iptv4free.com+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/151
 
-#EXTINF:0,Anis-Sat : Komala TV
-rtmp://194.237.202.7:1937/live/KomalaTV_KurdChannel
+#EXTINF:-1,TR │ EKO TÜRK TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/152
 
-#EXTINF:0,Anis-Sat : Kurdmax
-http://live.kurdstream.net:1935/liveTrans/myStream_360p/playlist.m3u8
-
-#EXTINF:0,Anis-Sat : NRT TV HD
-rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt1/_definst_/mp4:nrt1.stream_1
-
-#EXTINF:0,Anis-Sat : NRT 2
-rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt2/_definst_/mp4:nrt2.stream_1
-
-#EXTINF:0,Anis-Sat : NALIA FM
-http://178.248.241.123:8000/radionrt
-
-#EXTINF:0,Anis-Sat : Payam TV (Low)
-http://payamlive.nanocdn.com:1935/live/payam64/playlist.m3u8
-#EXTINF:0,Anis-Sat : Payam TV (Medium)
-http://payamlive.nanocdn.com:1935/live/payam128/playlist.m3u8
-#EXTINF:0,Anis-Sat : Payam TV (Hight)
-http://payamlive.nanocdn.com:1935/live/payam256/playlist.m3u8
-
-#EXTINF:0,Anis-Sat : Rudaw TV
-rtmp://livestreaming.itworkscdn.net/rudawlive/rudawtv
-
-
-#EXTINF:0,Anis-Sat : Speda TV (Low)
-rtsp://sepidehmob.nanocdn.com:1935/live/sepideh64
-#EXTINF:0,Anis-Sat : Speda TV (Medium)
-rtsp://sepidehmob.nanocdn.com:1935/live/sepideh128
-#EXTINF:0,Anis-Sat : Speda TV (Hight)
-rtsp://sepidehmob.nanocdn.com:1935/live/sepideh256
-#EXTINF:0,Anis-Sat : Speda TV (Low)
-http://sepidehlive.nanocdn.com:1935/live/sepideh64/playlist.m3u8
-#EXTINF:0,Anis-Sat : Speda TV (Medium)
-http://sepidehlive.nanocdn.com:1935/live/sepideh128/playlist.m3u8
-#EXTINF:0,Anis-Sat : Speda TV (Hight)
-http://sepidehlive.nanocdn.com:1935/live/sepideh256/playlist.m3u8
-
-#EXTINF:0,Anis-Sat : Sterk TV
-rtmp://178.33.61.33/sterktv_video/13/stream
-
-#EXTINF:0,Anis-Sat : Zagros TV
-rtmp://64.150.188.83/live//livestream2
-
-
-
-
-
-#EXTINF:0,Anis-Sat : Kurdistan TV
-http://84.244.187.12:1935/live/livestream/playlist.m3u8
-#EXTINF:0,Anis-Sat : Kurdsat TV HD
-http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/kurdsat/ls_satlink/b_528.m3u8
-#EXTINF:0,Anis-Sat : NRT HD
-rtmp://nrttv.iptv-playoutcenter.de:1935/nrt1/_definst_/mp4:nrt1.stream_1
-#EXTINF:0,Anis-Sat : NRT 2
-rtmp://nrttv.iptv-playoutcenter.de:1935/nrt2/_definst_/mp4:nrt2.stream_1
-#EXTINF:0,Anis-Sat : Payam TV
-rtsp://payammob.nanocdn.com:1935/live/payam256
-#EXTINF:0,Anis-Sat : Sepideh TV
-rtmp://sepidehlive.nanocdn.com/live/sepideh256
+#EXTINF:-1,TR:24 TV
+http://digitech-tv.webhop.org:2016/karat/karat/48145
