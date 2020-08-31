@@ -1,195 +1,69 @@
+#EXTM3U
 
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2349.png",ATV  By iptv4free.com
-http://reds.ppdn.tn/iptv/ch2349?code=460134681098246&key=20006
+#EXTINF:0 tvg-country="IR" tvg-logo="http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg" group-title="News",BBC Persian
+https://vs-dash-https://vs-dash-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/pc_hd_abr_v2_dash.mpd?checkedby:iptvcat.com
 
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2370.png",ATV Avrupa Tr
-http://reds.ppdn.tn/iptv/ch2370?code=460134681098246&key=47095
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto |HD 720|
+https://d2rwmwucnr0d10.cloudfront.net/live_1500.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2372.png",A news Tr
-http://reds.ppdn.tn/iptv/ch2372?code=460134681098246&key=64583
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="News",VOA Persian
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2351.png",A Haber
-http://reds.ppdn.tn/iptv/ch2351?code=460134681098246&key=56445
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 1
+http://www.ast.tv/stream/1/cellular.m3u8
 
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2316.png",A para Tr
-http://reds.ppdn.tn/iptv/ch2316?code=460134681098246&key=17138
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 2
+https://www.ast.tv/stream/2/ultra.m3u8
 
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2350.png",Aspor  By iptv4free.com
-http://reds.ppdn.tn/iptv/ch2350?code=460134681098246&key=19446
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
 
-#EXTINF:-1,TR: 24 TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73322
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",MILF HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",NYX 1
+https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",NYX 2
+https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 1
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 10
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 11
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 12
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 13
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 14
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 15
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 16
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 2
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 3
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 4
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 5
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 6
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 7
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 8
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-country="NL" tvg-url="" group-title="XXX",Visit-X TV
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-country="NL" tvg-url="" group-title="XXX",Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
 
-#EXTINF:-1,TR: A HABER 1080 FULL  By iptv4free.com
-http://live.ontarget.live:8080/Amanda1/Amanda1/73323
-
-#EXTINF:-1,TR: A SPOR  By iptv4free.com 1080 FULL  By iptv4free.com
-http://live.ontarget.live:8080/Amanda1/Amanda1/73324
-
-#EXTINF:-1,TR: ATV FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73325
-
-#EXTINF:-1,TR: beIN BOX OFFICE 1  By iptv4free.com
-http://live.ontarget.live:8080/Amanda1/Amanda1/73326
-
-#EXTINF:-1,TR: beIN BOX OFFICE 2  By iptv4free.com
-http://live.ontarget.live:8080/Amanda1/Amanda1/73327
-#EXTINF:-1,TR: beIN BOX OFFICE 3  By iptv4free.com
-http://live.ontarget.live:8080/Amanda1/Amanda1/73328
-#EXTINF:-1,TR: BEYAZ TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73329
-#EXTINF:-1,TR: BLOOMBERG HT FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73330
-#EXTINF:-1,TR: CNN TURK FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73331
-#EXTINF:-1,TR: DISCOVERY SCIENCE
-http://live.ontarget.live:8080/Amanda1/Amanda1/73332
-#EXTINF:-1,TR: DMAX TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73333
-#EXTINF:-1,TR: DREAM TURK FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73334
-#EXTINF:-1,TR: DREAM TV FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73335
-#EXTINF:-1,TR: EKO TURK
-http://live.ontarget.live:8080/Amanda1/Amanda1/73336
-#EXTINF:-1,TR: ER TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73337
-#EXTINF:-1,TR: FB TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73338
-#EXTINF:-1,TR: FOX TV FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73339
-#EXTINF:-1,TR: GS TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73340
-#EXTINF:-1,TR: HABERTURK FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73341
-#EXTINF:-1,TR: HALKTV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73342
-#EXTINF:-1,TR: KANAL 7 FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73343
-#EXTINF:-1,TR: KANAL B
-http://live.ontarget.live:8080/Amanda1/Amanda1/73344
-#EXTINF:-1,TR: KANAL D FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73345
-#EXTINF:-1,TR: KON TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73346
-#EXTINF:-1,TR: NTV FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73347
-#EXTINF:-1,TR: OLAY TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73348
-#EXTINF:-1,TR: POWER TURK FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73349
-#EXTINF:-1,TR: POWER TV FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73350
-#EXTINF:-1,TR: SHOW TV FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73351
-#EXTINF:-1,TR: SPORTS TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73352
-#EXTINF:-1,TR: STAR TV FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73353
-#EXTINF:-1,TR: TEVE 2 FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73354
-#EXTINF:-1,TR: TGRT HABER
-http://live.ontarget.live:8080/Amanda1/Amanda1/73355
-#EXTINF:-1,TR: TLC
-http://live.ontarget.live:8080/Amanda1/Amanda1/73356
-#EXTINF:-1,TR: TRT 1 FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73357
-#EXTINF:-1,TR: TRT HABER
-http://live.ontarget.live:8080/Amanda1/Amanda1/73358
-#EXTINF:-1,TR: TRT MUZIK
-http://live.ontarget.live:8080/Amanda1/Amanda1/73359
-#EXTINF:-1,TR: TRT SPOR FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73360
-#EXTINF:-1,TR: TRTHABER
-http://live.ontarget.live:8080/Amanda1/Amanda1/73361
-#EXTINF:-1,TR: TV 8 FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73362
-#EXTINF:-1,TR: TV 8_5 FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73363
-#EXTINF:-1,TR: UCANKUS TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73364
-#EXTINF:-1,TR: ULKE TV FULL  By iptv4free.com 1080
-http://live.ontarget.live:8080/Amanda1/Amanda1/73365
-#EXTINF:-1,TR: ULUSAL TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73366
-#EXTINF:-1,TR: VUSLAT TV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73367
-#EXTINF:-1,TR:TIVIBU SINEMATV
-http://live.ontarget.live:8080/Amanda1/Amanda1/73368
-#EXTINF:-1,TR:TIVIBU SINEMATV 1001
-http://live.ontarget.live:8080/Amanda1/Amanda1/73369
-#EXTINF:-1,TR:TIVIBU SINEMATV 1002
-http://live.ontarget.live:8080/Amanda1/Amanda1/73370
-#EXTINF:-1,TR:TIVIBU SINEMATV 2
-http://live.ontarget.live:8080/Amanda1/Amanda1/73371
-#EXTINF:-1,TR:TIVIBU SINEMATV AILE
-http://live.ontarget.live:8080/Amanda1/Amanda1/73372
-#EXTINF:-1,TR:TIVIBU SINEMATV AILE 2
-http://live.ontarget.live:8080/Amanda1/Amanda1/73373
-#EXTINF:-1,TR:TIVIBU SINEMATV AKSIYON
-http://live.ontarget.live:8080/Amanda1/Amanda1/73374
-#EXTINF:-1,TR:TIVIBU SINEMATV AKSIYON 2
-http://live.ontarget.live:8080/Amanda1/Amanda1/73375
-#EXTINF:-1,TR:TIVIBU SINEMATV KOMEDI
-http://live.ontarget.live:8080/Amanda1/Amanda1/73376
-#EXTINF:-1,TR:TIVIBU SINEMATV KOMEDI 2
-http://live.ontarget.live:8080/Amanda1/Amanda1/73377
-#EXTINF:-1,TR:TIVIBU SINEMATV YERLI
-http://live.ontarget.live:8080/Amanda1/Amanda1/73378
-#EXTINF:-1,TR:TIVIBU SINEMATV YERLI 2
-http://live.ontarget.live:8080/Amanda1/Amanda1/73379
-#EXTINF:-1,TR │ KANAL D  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
-#EXTINF:-1,TR │ STAR  By iptv4free.com
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
-#EXTINF:-1,TR │ FOX  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
-#EXTINF:-1,TR │ TV 8  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
-#EXTINF:-1,TR │ KANAL 7  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/83
-#EXTINF:-1,TR │ BEYAZ  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/87
-#EXTINF:-1,TR │ A2  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/89
-#EXTINF:-1,TR │ CEM TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/104
-#EXTINF:-1,TR │ CAN TV  By iptv4free.com
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/105
-#EXTINF:-1,TR │ YOL TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/107
-#EXTINF:-1,TR │ TV 5
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/113
-#EXTINF:-1,TR │ NTV  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/128
-#EXTINF:-1,TR │ CNN TÜRK  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
-#EXTINF:-1,TR │ HABER TÜRK  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/130
-#EXTINF:-1,TR │ 24 HABER  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/134
-#EXTINF:-1,TR │ KRT  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/135
-#EXTINF:-1,TR │ TV 100  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
-#EXTINF:-1,TR │ HABER GLOBAL  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/137
-#EXTINF:-1,TR │ ARTI TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
-#EXTINF:-1,TR │ TELE 1
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
-#EXTINF:-1,TR │ HALK TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
-
-
-#EXTINF:-1,TR │ ULUSAL KANAL
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/142
-
-#EXTINF:-1,TR │ BLOOMBERG HT  By iptv4free.com+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/151
-
-#EXTINF:-1,TR │ EKO TÜRK TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/152
-
-#EXTINF:-1,TR:24 TV
-http://digitech-tv.webhop.org:2016/karat/karat/48145
